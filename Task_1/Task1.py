@@ -8,6 +8,7 @@ url_list = defaultdict(int)
 for i in logfile:
     ip_list[i.split(" ")[0]] += 1
     url_list[i.split(" ")[8]] += 1
+    
 
 # Sort dictionary function
 def print_sorted(dict):
