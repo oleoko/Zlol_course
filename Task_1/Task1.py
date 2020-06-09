@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 logfile = open("LogFile.txt") # Open file with logs
-ip_list = defaultdict(int)
+ip_list = defaultdict(int)	
 url_list = defaultdict(int)
 
 # Add ip and url to dict and count them
