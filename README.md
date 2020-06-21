@@ -19,21 +19,21 @@ Data structures: Dictionaries
 Задача #2  
 Написати парсер сайту https://www.cvedetails.com/  
 Аргументом з командного рядка брати 	CVE (   )  	
-Витягувати наступну інформацію: 		  
-CVE		  
-CVSS SCORE		  
-Confidentiality Impact  		
-Integrity Impact  		
-Availability Impact  		
-Access Complexity  		
-Authentication  	
-Gained Access	  	
-Vulnerability type(s)  	`
-CWE ID  
-Products affected  	
-Vendor  	
-Ігнорувати інформацію в дужках  
-  
+Витягувати наступну інформацію:  		  
+CVE  		  
+CVSS SCORE  		  
+Confidentiality Impact    		
+Integrity Impact    		
+Availability Impact    		
+Access Complexity    		
+Authentication    	
+Gained Access  	  	
+Vulnerability type(s)    	`
+CWE ID    
+Products affected    	
+Vendor    	
+Ігнорувати інформацію в дужках    
+   
 Advanced:  
 Зберегти їх в окремий файл/базу даних  
 Не повторюватись в структурі даних, в якій зберігаєте результати  
