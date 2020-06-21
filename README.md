@@ -1,15 +1,15 @@
 # Zlol_course
 Оригінальна програма by Pavlo Zhavoronkov and Pavlo Hluschenko
 
-Programming course practical tasks
-Задача #1
-Написати парсер для логів аpache2:
-Вивести топ айпі за кількістю запитів	
-Вивести найпопулярнiйшi сторiнки
-Вивід має бути красивий, без скобочок
-
-Файл логів, який треба розпарсити:
-http://telegra.ph/Sample-log-01-27
+Programming course practical tasks  
+Задача #1  
+Написати парсер для логів аpache2:  
+Вивести топ айпі за кількістю запитів  	
+Вивести найпопулярнiйшi сторiнки  
+Вивід має бути красивий, без скобочок  
+  
+Файл логів, який треба розпарсити:  
+http://telegra.ph/Sample-log-01-27  
 
 To learn:
 File read	
